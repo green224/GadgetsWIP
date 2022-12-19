@@ -1,5 +1,5 @@
 {
-    "name": "RampGenerator8",
+    "name": "TexGenerator8",
     "rootNamespace": "",
     "references": [
         "Unity.Mathematics",
